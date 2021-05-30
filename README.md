@@ -1,7 +1,7 @@
-- 👋 Hi, @iambapef meni
-- 👀 I’m interested in data engineering.
-- 🌱 I’m currently learning python & scala (read/write Java already).
-- 💞️ I’m looking to collaborate on data engineering related projects.
+- 👋 Hi, @iambapef here
+- 👀 I’m tech apprentice
+- 🌱 I’m curious about "Big Data + AI" and the shape of things to come.
+- 💞️ I’m looking to collaborate on challenging projects that stretch me (I enjoy growth).
 - 📫 How to reach me iambapef@gmail.com
 
 <!---
